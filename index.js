@@ -1,10 +1,9 @@
 // Write your solution in this file!
-var customName = 'bob'
+var customerName = 'bob';
 
-function upperCaseCustomerName() {
-    return customName = customName.toUpperCase()
+function upperCaseCustomerName(){
+    customerName = customerName.toUpperCase();
 }
-
 function setBestCustomer() {
     bestCustomer = 'not bob'
 }
